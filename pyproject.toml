@@ -17,6 +17,9 @@ classifiers = [
 ]
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
+dependencies = [
+    "protobuf"
+]
 
 [project.urls]
 Homepage = "https://github.com/pypa/sampleproject"
