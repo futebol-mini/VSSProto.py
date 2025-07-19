@@ -1,0 +1,4 @@
+src/vssproto/simulation/*
+src/vssproto/referee/*
+dist/
+*.egg-info
