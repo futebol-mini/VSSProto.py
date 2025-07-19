@@ -1,4 +1,8 @@
 src/vssproto/simulation/*
+!src/vssproto/simulation/__init__.py
+
 src/vssproto/referee/*
+!src/vssproto/referee/__init__.py
+
 dist/
 *.egg-info
